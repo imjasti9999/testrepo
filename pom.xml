@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>scmlearningcenter</groupId>
-  <artifactId>module1</artifactId>
+  <artifactId>module2</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>module1</name>
+  <name>module2</name>
   <url>http://maven.apache.org</url>
   
   
@@ -16,11 +16,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-	<dependency>
-	 <groupId>scmlearningcenter</groupId>
-  <artifactId>module2</artifactId>
-  <version>1.0-SNAPSHOT</version>
-	</dependency>
   </dependencies>
   <build>
     <plugins>
